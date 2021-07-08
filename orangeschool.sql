@@ -1,6 +1,3 @@
-DROP DATABASE IF EXISTS Orange;
-CREATE DATABASE Orange;
-
 use Orange 
 
 create table administradores(

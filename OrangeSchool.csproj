@@ -205,6 +205,7 @@
       <DependentUpon>Models.edmx</DependentUpon>
       <LastGenOutput>Models.cs</LastGenOutput>
     </Content>
+    <Content Include="orangeschool.sql" />
     <Content Include="Resources\logo.png" />
     <None Include="Resources\admin.png" />
   </ItemGroup>
